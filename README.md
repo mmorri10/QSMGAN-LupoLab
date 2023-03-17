@@ -22,4 +22,4 @@ To apply trained models to new data,
 python make_swan_qsm_DL.py /path/to/phase/data/subID_tissue_phase.nii
 
 
-For support please contact: melanie.morrison@ucsf.edu
+For support please contact: janine.lupo at ucsf.edu
